@@ -1,0 +1,1 @@
+Submissions for my course "Business Analysis Foundations" where I initially learned how to get started as a BA and some techniques and best practices. I have logged these hours into my IIBA account which comes out to 70 hours.
