@@ -1,0 +1,2 @@
+# Business-Analysis
+This repo will contain any specific BA work. Primarily concepts I studied an implemented throughout my ITBA program. So far I have only included concepts from my Business Analysis Foundations course taught by Professor Nancy Engelhardt who also supervised my capstone project which is an entire course where the project is divided into multiple parts. I will soon upload my capstone project upon wrapping up my final submission which is about improving AML compliance at a multinational North American Bank.
